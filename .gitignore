@@ -1,0 +1,10 @@
+*.xcworkspace
+*.xcscmblueprint
+xcuserdata
+DerivedData
+build
+Build
+.DS_Store
+.svn
+CommitHash
+Pods
